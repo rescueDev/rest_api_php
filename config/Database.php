@@ -4,7 +4,7 @@ class Database
     private $host = 'localhost';
     private $db_name = 'myLibrary';
     private $username = 'root';
-    private $password = 'liesina92';
+    private $password = '';
     private $conn;
 
     public function create()
